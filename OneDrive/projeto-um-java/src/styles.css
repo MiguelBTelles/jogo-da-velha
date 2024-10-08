@@ -1,0 +1,22 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid #999;
+    font-size:24px;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+}
+
+.board-row  {
+    display:  flex;
+    justify-content: center;
+}
+
+.status {
+    font-size: 50px;
+    text-align: center;
+}
